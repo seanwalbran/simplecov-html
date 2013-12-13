@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Christoph Olszowka"]
   s.email       = ["christoph at olszowka de"]
-  s.homepage    = "https://github.com/colszowka/simplecov-html"
+  s.homepage    = "https://github.com/seanwalbran/simplecov-html"
   s.summary     = %Q{Default HTML formatter for SimpleCov code coverage tool for ruby 1.9+}
   s.description = %Q{Default HTML formatter for SimpleCov code coverage tool for ruby 1.9+}
 

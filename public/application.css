@@ -772,28 +772,29 @@ td {
 
 .source_table .covered {
   border-color: #009900; }
+.source_table .coverage_1 {
+  background-color: #ddffdd; }
+.source_table .coverage_2 {
+  background-color: #ccffcc; }
+.source_table .coverage_3 {
+  background-color: #bbffbb; }
+.source_table .coverage_4 {
+  background-color: #aaffaa; }
+.source_table .coverage_5 {
+  background-color: #99ff99; }
+.source_table .coverage_6 {
+  background-color: #88ff88; }
+.source_table .coverage_7 {
+  background-color: #77ff77; }
 .source_table .missed {
-  border-color: #990000; }
-.source_table .never {
-  border-color: black; }
-.source_table .skipped {
-  border-color: #ffcc00; }
-.source_table .covered:nth-child(odd) {
-  background-color: #cdf2cd; }
-.source_table .covered:nth-child(even) {
-  background-color: #dbf2db; }
-.source_table .missed:nth-child(odd) {
+  border-color: #990000;
   background-color: #f7c0c0; }
-.source_table .missed:nth-child(even) {
-  background-color: #f7cfcf; }
-.source_table .never:nth-child(odd) {
+.source_table .never {
+  border-color: black;
   background-color: #efefef; }
-.source_table .never:nth-child(even) {
-  background-color: #f4f4f4; }
-.source_table .skipped:nth-child(odd) {
+.source_table .skipped {
+  border-color: #ffcc00;
   background-color: #fbf0c0; }
-.source_table .skipped:nth-child(even) {
-  background-color: #fbffcf; }
 
 
 
